@@ -1,4 +1,5 @@
 # Hotel Reservation Cancellation Prediction 🏨💡
+This project was made on my Master's degree (Information Technology and Econometrics) on AGH University of Cracow. It was necessary to make sufficient, deep analysis to pass Machine Learning subject.  
 
 ## Project Overview 🚀
 This project aims to develop a machine learning model that predicts whether a customer will cancel a hotel reservation. The objective is to help hotel managers anticipate last-minute cancellations and optimize bookings.
